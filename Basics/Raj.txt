@@ -1,5 +1,1 @@
-Hi This is a File
-This is python
-JAVA
-C++
-This was added
+Writing to file
