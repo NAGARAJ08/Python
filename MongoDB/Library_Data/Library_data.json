@@ -1,0 +1,56 @@
+[
+  {
+    "_id": {
+      "$oid": "640420e1be7e3deb58ff53a2"
+    },
+    "author": "ABC",
+    "title": "Aphabets by ABC",
+    "published_date": "25 Jan",
+    "copies": 100
+  },
+  {
+    "_id": {
+      "$oid": "640430c83b2f6fcbbccc9ae6"
+    },
+    "author": "Eric Matthes",
+    "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+    "published_date": "9 Jan",
+    "copies": 120
+  },
+  {
+    "_id": {
+      "$oid": "640430c83b2f6fcbbccc9ae7"
+    },
+    "author": "Paul Barry",
+    "title": "Head First Python: A Brain-Friendly Guide ",
+    "published_date": "12 Aug",
+    "copies": 120,
+    "rental": [
+      {
+        "name": "John",
+        "street": "near Alphine tree",
+        "city": "Alaska",
+        "Country": "US",
+        "rental_id": "640430c83b2f6fcbbccc9ae7"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "640430c83b2f6fcbbccc9ae9"
+    },
+    "author": "Brian W. Kernighan, Dennis M. Ritchie",
+    "title": "C Programming Language",
+    "published_date": "8 Jun",
+    "copies": 40
+  },
+  {
+    "_id": {
+      "$oid": "640430c83b2f6fcbbccc9aea"
+    },
+    "author": " AI Sweigart",
+    "title": "Automating the Boring Stuff With Python",
+    "published_date": "16 May",
+    "copies": 400
+  }
+]

@@ -1,0 +1,72 @@
+[
+   {
+      "_id": 1,
+      "user": "Amit",
+      "title": "Python",
+      "comments": 5,
+      "Popularity": "Low"
+   },
+   {
+      "_id": 2,
+      "user": "Drew",
+      "title": "JavaScript",
+      "comments": 15,
+      "Popularity": "Med"
+   },
+   {
+      "_id": 3,
+      "user": "Amit",
+      "title": "C++",
+      "comments": 6,
+      "Popularity": "Low"
+   },
+   {
+      "_id": 4,
+      "user": "Drew",
+      "title": "MongoDB",
+      "comments": 2,
+      "Popularity": "Low"
+   },
+   {
+      "_id": 5,
+      "user": "Cody",
+      "title": "Perl",
+      "comments": 9,
+      "Popularity": "Low"
+   },
+   {
+      "_id": 6,
+      "user": "Shiva",
+      "title": "Python",
+      "comments": 15,
+      "Popularity": "Med"
+   },
+   {
+      "_id": 7,
+      "user": "Raj",
+      "title": "Python",
+      "comments": 25,
+      "Popularity": "Med"
+   },
+   {
+      "_id": 8,
+      "user": "Alex",
+      "title": "Java",
+      "comments": 1,
+      "Popularity": "Low"
+   },
+   {
+      "_id": 9,
+      "user": "Avir",
+      "title": "MongoDB",
+      "comments": 45,
+      "Popularity": "High"
+   },
+   {
+      "_id": 10,
+      "user": "NK",
+      "title": "C++",
+      "comments": 9,
+      "Popularity": "Low"
+   }
+]
